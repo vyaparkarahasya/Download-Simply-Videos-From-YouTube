@@ -1,3 +1,7 @@
 yt-dlp>=2023.12.30
 ffmpeg-python>=0.2.0
 typing>=3.7.4
+# Telegram + Flask support
+python-telegram-bot==13.18
+Flask==2.2.5
+requests==2.31.0
